@@ -317,6 +317,13 @@ export default function Home() {
               websiteUrl="https://www.hubneosoma.com.br"
             />
             <ProjectCard
+              title="Cristiane Melo"
+              description="Psicoterapia e acolhimento emocional para mulheres. Se você se sente perdida, desconectada ou presa em ciclos emocionais dolorosos, aqui você encontra apoio para se reencontrar, curar feridas e reconstruir sua essência."
+              imagePath="/images/crismelo.png"
+              imageAlt="Website Cristiane Melo"
+              websiteUrl="https://www.cristianemelo.com.br"
+            />
+            <ProjectCard
               title="J'adore Cosméticos"
               description="E-commerce completo para loja de cosméticos com mais de 5.000 produtos. Sistema de catálogo, carrinho de compras e integração com meios de pagamento."
               imagePath="/images/jadore.jpeg"
